@@ -7,5 +7,7 @@ const express = require('express')
 const router = express.Router()
 
 router.get('/swiperdata', require('../controller/home').rotograph)
+router.get('/catitems', require('../controller/home').memorandumType)
+router.get('/floorData', require('../controller/home').memorandumFloor)
 
 module.exports = router

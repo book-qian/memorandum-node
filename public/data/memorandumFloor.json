@@ -1,0 +1,134 @@
+{
+  "message": [
+    {
+      "floor_title": {
+        "name": "面试准备",
+        "image_src": "/images/interview.png"
+      },
+      "product_list": [
+        {
+          "name": "生命周期",
+          "image_src": "/images/vue-bg.png",
+          "image_width": "232",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=服饰"
+        },
+        {
+          "name": "vue3-composition-api",
+          "image_src": "/images/vue-composition-api.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=热"
+        },
+        {
+          "name": "html5相关新特性",
+          "image_src": "/images/html5.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=爆款"
+        },
+        {
+          "name": "css3相关新特性",
+          "image_src": "/images/css3.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=春季"
+        },
+        {
+          "name": "js原型链",
+          "image_src": "/images/js_prototype.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=心动"
+        }
+      ]
+    },
+    {
+      "floor_title": {
+        "name": "npm相关",
+        "image_src": "/images/npm.png"
+      },
+      "product_list": [
+        {
+          "name": "初始化",
+          "image_src": "/images/npm_start.png",
+          "image_width": "232",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=户外"
+        },
+        {
+          "name": "配置",
+          "image_src": "/images/npm_config.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=登山包"
+        },
+        {
+          "name": "缓存",
+          "image_src": "/images/npm_cache.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=手套"
+        },
+        {
+          "name": "镜像",
+          "image_src": "/images/npm_mirror.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=运动鞋"
+        },
+        {
+          "name": "命令",
+          "image_src": "/images/npm_script.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=冲锋衣"
+        }
+      ]
+    },
+    {
+      "floor_title": {
+        "name": "macos相关",
+        "image_src": "/images/macos.png"
+      },
+      "product_list": [
+        {
+          "name": "访达技巧",
+          "image_src": "/images/macos_ folder.png",
+          "image_width": "232",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=饰品"
+        },
+        {
+          "name": "快捷键",
+          "image_src": "/images/macos_keys.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=胸针"
+        },
+        {
+          "name": "必装软件",
+          "image_src": "/images/macos_soft.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=手链"
+        },
+        {
+          "name": "壁纸大全",
+          "image_src": "/images/macos_wallpaper.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=水晶项链"
+        },
+        {
+          "name": "软件地址",
+          "image_src": "/images/macos_appstore.png",
+          "image_width": "200",
+          "open_type": "navigate",
+          "navigator_url": "/pages/goods_list?query=情侣表"
+        }
+      ]
+    }
+  ],
+  "meta": { "msg": "获取成功", "status": 200 }
+}
