@@ -16,6 +16,8 @@ app.use(express.json())
 app.use('/api/public/v1/home', require('./router/home'))
 // 注册分类页面接口
 app.use('/api/public/v1/cate', require('./router/cate'))
+// 注册备忘录接口
+app.use('/api/public/v1/goods', require('./router/memorandum'))
 
 // 静态资源服务器
 app.use(express.static('./public'))

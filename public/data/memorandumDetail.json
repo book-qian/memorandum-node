@@ -1,0 +1,96 @@
+{
+  "message": {
+    "goods_id": 57444,
+    "cat_id": 9,
+    "goods_name": "Vue高级技巧，在 Vue 3 中，错误处理程序仅适用于模板和观察程序错误，但 Vue 2 错误处理程序几乎可以捕获所有内容。两个版本中的警告处理程序仅适用于开发",
+    "goods_price": 1899,
+    "goods_number": 100,
+    "goods_weight": 100,
+    "memorandum_detail": [
+      {
+        "name": "1. 将 prop 限制为类型列表",
+        "url": "/images/detail-1.jpg"
+      },
+      {
+        "name": "2. 默认内容和扩展点",
+        "url": "/images/detail-2.jpg"
+      },
+      {
+        "name": "3. 基本上你可以获取组件的任何部分，将它包装在一个slot中，然后你可以使用你想要的任何内容覆盖该组件的该部分。默认情况下，它仍然会照常一样工作，不过还可以有更多选择",
+        "url": "/images/detail-3.jpg"
+      },
+      {
+        "name": "4. 现在你可以用多种不同的方式使用此组件。简单的默认方式或者你自己的自定义方式",
+        "url": "/images/detail-4.jpg"
+      },
+      {
+        "name": "5. 使用引号观察嵌套值",
+        "url": "/images/detail-5.jpg"
+      },
+      {
+        "name": "6. 使用引号观察嵌套值",
+        "url": "/images/detail-6.jpg"
+      },
+      {
+        "name": "7. 有条件地渲染slot",
+        "url": "/images/detail-7.jpg"
+      },
+      {
+        "name": "8. 我们可以在我们的组件中使用它来检测哪些slot已应用于组件，例如，通过隐藏slot的包装元素",
+        "url": "/images/detail-8.jpg"
+      },
+      {
+        "name": "9. 为什么我们希望能够有条件地渲染slot呢？",
+        "url": "/images/detail-8.jpg"
+      },
+      {
+        "name": "10. v-if在包装上添加它div可以解决问题。没有应用到slot的内容？像这样",
+        "url": "/images/detail-10.jpg"
+      },
+      {
+        "name": "11. 如何观察slot的变化",
+        "url": "/images/detail-11.jpg"
+      }
+    ],
+    "goods_small_logo": "/images/cate_icon_vue.png",
+    "goods_state": 2,
+    "is_del": "0",
+    "add_time": 1516663280,
+    "upd_time": 1516663280,
+    "delete_time": null,
+    "hot_mumber": 0,
+    "is_promote": false,
+    "cat_one_id": 1,
+    "cat_two_id": 3,
+    "cat_three_id": 9,
+    "goods_cat": "1,3,9",
+    "pics": [
+      {
+        "pics_id": 235234,
+        "goods_id": 57444,
+        "pics_big": "/images/cate_icon_jslet.png"
+      },
+      {
+        "pics_id": 235235,
+        "goods_id": 57444,
+        "pics_big": "/images/cate_icon_jsprototype.png"
+      },
+      {
+        "pics_id": 235236,
+        "goods_id": 57444,
+        "pics_big": "/images/cate_icon_jsfn.png"
+      },
+      {
+        "pics_id": 235237,
+        "goods_id": 57444,
+        "pics_big": "/images/cate_icon_jsoperator.png"
+      },
+      {
+        "pics_id": 235238,
+        "goods_id": 57444,
+        "pics_big": "/images/cate_icon_jsif.png"
+      }
+    ]
+  },
+  "meta": { "msg": "获取成功", "status": 200 }
+}
