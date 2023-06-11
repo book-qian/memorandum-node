@@ -2,21 +2,21 @@
   "message": [
     {
       "name": "git",
-      "image_src": "/images/git.png",
+      "image_src": "/images/memorand/git.png",
       "open_type": "switchTab",
       "navigator_url": "/pages/category/main"
     },
     {
       "name": "linux",
-      "image_src": "/images/linux.png"
+      "image_src": "/images/memorand/linux.png"
     },
     {
       "name": "mysql",
-      "image_src": "/images/mysql.png"
+      "image_src": "/images/memorand/mysql.png"
     },
     {
       "name": "ssh",
-      "image_src": "/images/ssh.png"
+      "image_src": "/images/memorand/ssh.png"
     }
   ],
   "meta": { "msg": "获取成功", "status": 200 }
